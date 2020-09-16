@@ -1,0 +1,30 @@
+body {
+  background-color: #fafafa;
+}
+
+table {
+  width: 100%;
+}
+
+.content-body {
+  padding: 100px;
+  background-color: #f3f7fd;
+}
+
+.container {
+  border: 1px solid #eee;
+  background-color: white;
+  max-width: 80%;
+  margin: auto;
+  margin-top: 40px;
+
+  header {
+    display: flex;
+    padding: 60px 150px;
+    align-items: flex-start;
+  }
+
+  .image-header {
+    margin-right: 40px;
+  }
+}
